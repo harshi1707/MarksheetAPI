@@ -9,4 +9,7 @@ openai
 pydantic
 python-multipart
 python-dotenv
+
 pytest
+appsignal
+opentelemetry-instrumentation-flask
